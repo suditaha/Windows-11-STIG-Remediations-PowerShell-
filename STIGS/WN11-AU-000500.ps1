@@ -25,8 +25,6 @@
         PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1
 #>
 
-# YOUR CODE GOES HERE
-
 # Remediate Windows STIG: Configure Application Event Log maximum size
 # Registry equivalent:
 # [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application]
